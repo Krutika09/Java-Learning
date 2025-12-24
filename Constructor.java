@@ -1,3 +1,4 @@
+// A constructor is a special method in Java that is called automatically when an object is created.
 class CreatingConstructor{ 
 // Class name and constructor name must be same
     String name;  // Initializaing instance variable
