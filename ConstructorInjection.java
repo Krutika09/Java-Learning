@@ -1,3 +1,6 @@
+// What is Constructor Injection?
+// Constructor Injection is a way to give required objects (dependencies) to a class using its constructor instead of creating them inside the class.
+
 // This is a normal class
 // It represents an Engine
 class Engine {
