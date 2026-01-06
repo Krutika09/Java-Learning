@@ -18,8 +18,14 @@ public class MethodOverload{
         System.out.println("Add 2 intergers: "+c.add(10,20));
         System.out.println("Add 3 intergers: "+c.add(10,20, 30));
         System.out.println("Add 2 doubles: "+c.add(10.88,20.67));
-
-
-
-    }
 }
+
+// In my example, I used a Calculator class with an add() method.
+// The method is overloaded to handle different inputs:
+
+// adding two integers
+
+// adding three integers
+
+// adding two double values
+// Even though the method name is the same, Java identifies the correct method based on the arguments provided.”**
